@@ -36,18 +36,18 @@ Inclua **pelo menos 3 novos fatores** em cada quadrante com base no que descobri
 
 | **FORÇAS** | **FRAQUEZAS** | **OPORTUNIDADES** | **AMEAÇAS** |
 |-----------|----------------|--------------------|--------------|
-|           |                |                    |              |
-|           |                |                    |              |
-|           |                |                    |              |
-|           |                |                    |              |
-|           |                |                    |              |
+|Esforçado   | Foco               |Acesso a conteúdos (Alura, Rocketseat)                    |              |
+|Pontual    | Inteligência Emocional               |Mentorias e livros                    |Não concluir os desafios              |
+|Comprometimento           |Autocobrança                |                    |              |
+|Adaptável        |Medo do novo                |Aceitar novos desafios                    |Perda do emprego              |
+|Gosta de Aprender           | Organização do Tempo               |                    |Perda de foco              |
 
 ---
 
 ### 4. Defina prioridades de desenvolvimento
 
-- **Hard skill de maior prioridade**: _[escreva aqui]_
-- **Soft skill de maior prioridade**: _[escreva aqui]_
+- **Hard skill de maior prioridade**: Concluir a formação full stack da Rocketseat
+- **Soft skill de maior prioridade**: Inteligência Emocional, comunicação, foco e organização do tempo
 
 ---
 
@@ -68,17 +68,21 @@ Exemplos de perguntas para o formulário:
 - Qual você acha que é o meu próximo passo?
 
 Você também pode fazer **rodadas de conversa** para se aprofundar ainda mais.
-
+> Consegui realizar esta atividade com Hércules, Daniel e Carlos Henrique.
 ---
 
 ### 2. Faça benchmarkings com profissionais de outras empresas
 
 Converse com pessoas da sua área que atuam em contextos semelhantes. Faça perguntas como:
 
-- Como você organiza sua rotina?
-- Quais ferramentas você usa?
-- Como se mantém atualizado?
-- Como se destaca no mercado?
+- Como você organiza sua rotina? 
+#### Separar pelo menos 1h/dia para estudos
+- Quais ferramentas você usa? 
+#### Plataforma da Rocketseat
+- Como se mantém atualizado? 
+#### Manter a constância nos estudos
+- Como se destaca no mercado? 
+#### Josi e as mentorias da rocketseat estão me ajudando neste quesito.
 
 Esses insights podem te mostrar novos caminhos, ideias e fortalecer o que você já faz bem.
 
